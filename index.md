@@ -1,6 +1,2 @@
----
-layout: default
----
-
-{% include 01-name.md %}
+https://lab.github.com/githubtraining/communicating-using-markdown
 
